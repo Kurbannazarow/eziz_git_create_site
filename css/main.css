@@ -1,0 +1,27 @@
+.header {
+  padding: 50px 100px;
+  text-align: center;
+  background: #999;
+  font-size: 32px;
+  font-family: sans-serif;
+  color: #fff;
+  text-transform: uppercase;}
+.main {
+  text-align: center;
+  text-transform: uppercase;
+  background: rgb(104, 223, 93);
+  padding: 50px 100px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 38px;
+
+}
+.footer {
+  text-align: center;
+  text-transform: uppercase;
+  background: rgb(194, 71, 224);
+  padding: 50px 100px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 38px;
+}
